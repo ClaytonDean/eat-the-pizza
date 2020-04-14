@@ -10,7 +10,7 @@ if (process.env.JAWSDB_URL) {
     port: 3306,
     user: "root",
     password: "root",
-    database: "o7h612z3lrkfj4qv"
+    database: "pizza_db"
   });
 }
 
